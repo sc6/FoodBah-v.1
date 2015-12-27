@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /login
+Disallow: /item/upload_image.php
+Disallow: /item/rate.php
