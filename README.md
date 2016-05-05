@@ -6,4 +6,4 @@ FoodBah helps users make decisions about food. Through this website, the user is
 1. Add files to a web server which supports PHP.<br>
 2. Import the <code>.sql</code> file onto a MySQL database and link the DB to the website.<br><br>
 <strong>Notes:</strong><br>
-This repository is not complete. Many files are missing from it, including asset files and database backups. Also, all references to a database has been removed from code.<br><br>
+This repository is not complete. Many files are missing from it, including asset files and database backups. Also, all references to a database have been removed from code.<br><br>
